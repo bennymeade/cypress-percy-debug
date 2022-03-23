@@ -1,0 +1,13 @@
+{
+  "name": "cypress-percy-debug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bennymeade/cypress-percy-debug.git",
+  "author": "bennymeade <brendan_meade@yahoo.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "@percy/cli": "1.0.0-beta.70",
+    "@percy/cypress": "3.1.1",
+    "cypress": "9.4.1"
+  }
+}
